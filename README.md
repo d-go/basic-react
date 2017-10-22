@@ -1,4 +1,4 @@
-# basic-reat
+# basic-react
 
 A very basic example of a react app implementing Typescript and Webpack
 
